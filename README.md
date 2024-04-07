@@ -1,4 +1,5 @@
-<div align="Center">
+<div align="Center">curl -sL1 http://avail.sh | bash
+
 <h1>avail-light</h1>
 <h3> Light client for the Avail blockchain</h3>
 </div>
